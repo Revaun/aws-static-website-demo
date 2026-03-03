@@ -13,3 +13,7 @@ It includes a simple HTML page (`index.html`) and shows the workflow of version 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Revaun/aws-static-website-demo.git
+
+## Updates
+- Added `style.css` with gradient background and modern typography
+- Linked stylesheet in `index.html`
