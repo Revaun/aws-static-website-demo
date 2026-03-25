@@ -1,4 +1,4 @@
-<img src="Images/aws_static_website_demo.png" alt="AWS Static Website Demo Banner" width="100%" height="400px" style="object-fit:cover; display:block;"/>
+![AWS Static Website Demo Banner](Images/aws_static_website_demo.png)
 
 # AWS Static Website Demo (Docker + LocalStack)
 
@@ -10,15 +10,7 @@ This project demonstrates a complete workflow: local development, CI/CD automati
 
 ---
 
-## 📖 Overview
-This repository showcases how to deploy a static website using **AWS S3**.  
-It includes a simple HTML/CSS site (`index.html`, `style.css`) and demonstrates version control with GitHub, automated deployment with GitHub Actions, and local AWS simulation using Docker + LocalStack.
-
----
-
 ## 📸 Deployment Proof
-
-This section documents the full deployment workflow — from bucket setup to live preview — with snapshots as evidence.
 
 ### Step 1 – Bucket Setup
 ![Bucket Creation](Images/Snapshots/01_bucket_creation.png)
@@ -36,13 +28,4 @@ This section documents the full deployment workflow — from bucket setup to liv
 ![GitHub Actions Badge Snapshot](Images/Snapshots/07_github_actions_badge.png)
 
 ### Step 6 – Final Result
-![Static Website Screenshot](Images/static_website.png)  
 ![Husky Guarding Pipeline](Images/Snapshots/17_site_with_images.png)
-
----
-
-## 🚀 Tech Stack
-- **AWS S3** – static website hosting  
-- **GitHub Actions** – CI/CD pipeline  
-- **Docker + LocalStack** – local AWS simulation  
-- **HTML/CSS** – frontend styling
