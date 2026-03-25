@@ -2,7 +2,8 @@
 
 # AWS Static Website Demo (Docker + LocalStack)
 
-[![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](http://revaun-static-website-demo.s3-website-af-south-1.amazonaws.com)  
+[![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
+
 🔗 [Live Preview](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
 
 
@@ -27,7 +28,8 @@ This project demonstrates a complete workflow: local development, CI/CD automati
 
 ## Step 5 — GitHub Actions Badge
 
-![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)
+[![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
+
 
 
 ### Step 6 – Final Result
