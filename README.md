@@ -3,7 +3,8 @@
 # AWS Static Website Demo (Docker + LocalStack)
 
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](http://revaun-static-website-demo.s3-website-af-south-1.amazonaws.com)  
-🔗 [Live Preview](http://revaun-static-website-demo.s3-website-af-south-1.amazonaws.com)
+🔗 [Live Preview](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
+
 
 Meet my Husky Echo — guarding the pipeline from build to deploy.  
 This project demonstrates a complete workflow: local development, CI/CD automation, and cloud deployment.
