@@ -4,8 +4,8 @@
 
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
 
-🔗 [Live Preview](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)  
-🌐 [Website Endpoint](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
+🔗 [Live Preview](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
+
 
 Meet my Husky Echo — guarding the pipeline from build to deploy.  
 This project demonstrates a complete workflow: local development, CI/CD automation, and cloud deployment.
@@ -24,11 +24,13 @@ This project demonstrates a complete workflow: local development, CI/CD automati
 ![Bucket Policy Applied](Images/Snapshots/05_bucket_policy_applied.png)
 
 ### Step 4 – Website Endpoint
-![Website Endpoint](Images/Snapshots/06_website_endpoint.png)
+![Website Endpoint](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
 
 ## Step 5 — GitHub Actions Badge
 
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
+
+
 
 ### Step 6 – Final Result
 ![Husky Guarding Pipeline](Images/Snapshots/17_site_with_images.png)
