@@ -26,9 +26,5 @@ This project demonstrates a complete workflow: local development, CI/CD automati
 ### Step 4 – Website Endpoint
 ![Website Endpoint](Images/Snapshots/06_website_endpoint.png)
 
-## Step 5 — GitHub Actions Badge
-
-[![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
-
-### Step 6 – Final Result
+### Step 5 – Final Result
 ![Husky Guarding Pipeline](Images/Snapshots/17_site_with_images.png)
