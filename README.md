@@ -11,10 +11,12 @@
 
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
 
-## 🚀 Live Preview
-
-[http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
 👉 [View the GitHub Repository](https://github.com/Revaun/aws-static-website-demo)
+
+## 📸 Live Site Snapshot
+Here’s Echo the Husky guarding the pipeline, served directly from S3:
+
+![Live Site Screenshot](Images/Snapshots/live_site_preview.png)
 
 
 ---
