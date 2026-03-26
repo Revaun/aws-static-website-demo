@@ -11,8 +11,11 @@
 
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
 
-### Live Preview
-http://revaun-static-website-demo.s3-website-af-south-1.amazonaws.com
+## 🚀 Live Preview
+
+[http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
+👉 [View the GitHub Repository](https://github.com/Revaun/aws-static-website-demo)
+
 
 ---
 
