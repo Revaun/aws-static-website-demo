@@ -16,25 +16,33 @@ http://revaun-static-website-demo.s3-website-af-south-1.amazonaws.com
 
 ---
 
-## Proof Snapshots
+## 🚀 Project Importance
+- Hands‑on AWS security and DevOps demonstration.
+- CI/CD pipeline integration with GitHub Actions.
+- Recruiter‑ready documentation with snapshots and badges.
+- Clear proof of troubleshooting and deployment skills.
+
+---
+
+## 📸 Deployment Proof
 
 ### Step 1 – Bucket Creation
 ![Bucket Creation](Images/Snapshots/01_bucket_creation.png)
 
-### Step 2 – Bucket Policy Applied
-![Bucket Policy](Images/Snapshots/05_bucket_policy_applied.png)
-
-### Step 3 – Files Uploaded
+### Step 2 – Files Uploaded
 ![Files Uploaded](Images/Snapshots/02_files_uploaded.png)
 
-### Step 4 – Static Website Hosting Enabled
-![Static Hosting](Images/Snapshots/03_static_hosting_enabled.png)
+### Step 3 – Static Hosting Enabled
+![Static Hosting Enabled](Images/Snapshots/03_static_hosting_enabled.png)
 
-### Step 5 – GitHub Actions Badge
+### Step 4 – Public Access Disabled
+![Block Public Access Disabled](Images/Snapshots/04_block_public_access_disabled.png)
+
+### Step 5 – Public Access Policy
+![Bucket Policy Applied](Images/Snapshots/05_bucket_policy_applied.png)
+
+### Step 6 – GitHub Actions Badge
 ![CI/CD Badge](Images/Snapshots/GitHub_Actions_badge.png)
-
-### Step 6 – Site with Images
-![Site with Images](Images/Snapshots/17_site_with_images.png)
 
 ### Step 7 – Final Result
 Echo the Husky guarding the pipeline 🐕  
