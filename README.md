@@ -1,9 +1,11 @@
 ![AWS Static Website Demo Banner](Images/aws_static_website_demo.png)
 
-# AWS Static Website Demo (Docker + LocalStack)
+# 🌐 AWS Static Website Demo (Docker + LocalStack)
 
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
 
+🔗 [View Static Website Demo](https://github.com/Revaun/aws-static-website-demo)  
+🟩 **Deploy to S3 passing**  
 🔗 [Live Preview](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
 
 Meet my Husky Echo — guarding the pipeline from build to deploy.  
@@ -65,3 +67,5 @@ Follow these steps to reproduce the demo on your own machine:
 
 5. CI/CD pipeline (optional)
    Push changes to GitHub and let GitHub Actions run the deploy.yml workflow to deploy automatically to your real S3 bucket in af-south-1.
+
+[⬅️ Back to Portfolio](../README.md)
