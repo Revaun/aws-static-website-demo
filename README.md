@@ -2,15 +2,8 @@
 
 # 🌐 AWS Static Website Demo (Docker + LocalStack)
 
-### 🌐 AWS Static Website Demo (S3)
-Deploy a static website to Amazon S3 with CI/CD automation.  
-Proof includes bucket setup, hosting configuration, public access policy, and live preview link.  
-➡️ [View Static Website Demo](aws-static-website-demo/)
-
-
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
 
-🔗 [View Static Website Demo](https://github.com/Revaun/aws-static-website-demo)  
 🟩 **Deploy to S3 passing**  
 🔗 [Live Preview](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
 
@@ -48,7 +41,6 @@ Echo the Husky isn’t just a mascot — he represents reliability, guarding the
 
 ---
 
-
 ## 🛠 How to Run Locally
 
 Follow these steps to reproduce the demo on your own machine:
@@ -57,6 +49,7 @@ Follow these steps to reproduce the demo on your own machine:
    ```bash
    git clone https://github.com/Revaun/aws-static-website-demo.git
    cd aws-static-website-demo
+
 
 
 2. Start LocalStack with Docker
