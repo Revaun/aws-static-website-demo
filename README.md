@@ -5,7 +5,7 @@
 [![Deploy to S3](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Revaun/aws-static-website-demo/actions/workflows/deploy.yml)
 
 🟩 **Deploy to S3 passing**  
-🔗 [Live Preview](http://revaun-static-website-demo.s3-website.af-south-1.amazonaws.com)
+🔗 [Live Preview](https://revaun.github.io/aws-static-website-demo/)
 
 Meet my Husky Echo — guarding the pipeline from build to deploy.  
 This project demonstrates a complete workflow: local development, CI/CD automation, and cloud deployment.
